@@ -21,7 +21,7 @@ with st.sidebar:
     st.header("Parámetros")
     Nd_kN = st.number_input("Carga de diseño N_d (kN)", min_value=0.0, value=800.0, step=10.0)
     L_m   = st.number_input("Longitud entre apoyos L (m)", min_value=0.1, value=3.0, step=0.1)
-    K     = st.number_input("Coeficiente efectivo K (–)", min_value=0.1, value=1.0, step=0.05)
+    K     = st.number_input("Coeficiente K", min_value=0.1, value=1.0, step=0.05)
     E     = st.number_input("Módulo E (MPa)", min_value=100000.0, value=210000.0, step=1000.0)
     Fy    = st.number_input("Fy (MPa)", min_value=200.0, value=235.0, step=5.0)
 
