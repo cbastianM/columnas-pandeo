@@ -7,6 +7,7 @@ st.title("🧮 Diseño de Columnas IPE")
 st.markdown("Desarrollado por:")
 st.markdown("Sebastian Martínez Arrieta") 
 st.markdown("Ana Victoria Pérez Ortega") 
+st.markdown("Luis Díaz") 
 
 PHI_C = 0.90  # φ fijo en compresión LRFD
 
