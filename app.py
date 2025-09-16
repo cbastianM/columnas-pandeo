@@ -9,6 +9,8 @@ st.markdown("Sebastian Martínez Arrieta")
 st.markdown("Ana Victoria Pérez Ortega") 
 st.markdown("Luis Díaz") 
 st.markdown("Yiseth Paola Martelo Quintana")
+st.markdown("Jhonatan Guzman")
+
 
 PHI_C = 0.90  # φ fijo en compresión LRFD
 
